@@ -1,5 +1,8 @@
 # Created by .ignore support plugin (hsz.mobi)
 ### Maven template
+.idea
+target
+*.iml
 target/
 pom.xml.tag
 pom.xml.releaseBackup
